@@ -3,4 +3,6 @@
 * ajouter les fichiers
 * Modifier les fichiers
 * Voir les historiques
-* Ne pas avoir peut des merge
+* Ne pas avoir peur des merge et des rebase
+* ajout d'utilisateurs ?
+* supprimer des commits ?
